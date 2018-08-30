@@ -22,5 +22,3 @@ add_subdirectory(chapter-17)
 add_subdirectory(chapter-18)
 
 
-# just fro test
-
